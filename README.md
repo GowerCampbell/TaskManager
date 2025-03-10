@@ -93,6 +93,8 @@ TaskManager/
 ## Usage
 
 ### Running the Application
+<img src="images/TaskView.png" alt="Task View" width="1200" style="display: block; margin: 0 auto;">
+
 
 - Start the application by running `python main.py`.
 - The main menu will display the following options:
