@@ -160,6 +160,8 @@ If all tests pass, you will see a confirmation message (e.g., "Ran 7 tests in X.
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
+<img src="images/TaskAdd.png" alt="Task Add" width="1200" style="display: block; margin: 0 auto;">
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details (if applicable).
