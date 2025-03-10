@@ -1,9 +1,6 @@
-# TaskManager
-Below is a well-structured and informative README.md file tailored for your Task Manager application. It incorporates the provided code, log entries, and project structure to give users a clear understanding of the project, how to set it up, and how to use it. The content is written in Markdown format, suitable for inclusion in your `README.md` file.
-
----
-
 # Task Manager Application
+
+<img src="images/UserInterface.png" alt="My Image" width="1200" style="display: block; margin: 0 auto;">
 
 ## Overview
 
