@@ -1,0 +1,10 @@
+{
+    "data_folder": "tasks_data",
+    "data_file": "tasks.json",
+    "task_max_length": 100,
+    "logging": {
+        "enabled": true,
+        "log_file": "task_manager.log",
+        "log_level": "INFO"
+    }
+}
